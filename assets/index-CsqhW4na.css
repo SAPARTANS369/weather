@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;body{transition:background 1s ease}body.sunny{background:linear-gradient(to right,#ff7e5f,#feb47b)}body.cloudy{background:linear-gradient(to right,#bdc3c7,#2c3e50)}body.rainy{background:linear-gradient(to right,#4b79a1,#283e51)}body.snowy{background:linear-gradient(to right,#e6dada,#274046)}
